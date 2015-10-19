@@ -20,11 +20,11 @@ Program Overview
 
 This example is for audio/video. We have a bottom area with a set of buttons for controlling the playback, a label for showing the status, and then a MediaElement control in the top area to show the actual video or not showing anything when we choose an mp3 file.
 
-I create and start a timer, which ticks every second. We use this event to update the status timer_Tick toolbox, which will show the current progress , as seen on the screenshot.
+I create and start a timer, which ticks every second. We use this event to update the status timer_Tick toolbox, which will show the current progress, as seen on the screenshot.
 
 The buttons each simply call a corresponding method on the MediaElement control - Play(), Stop(), Volume Up() and Volume Down().
 
-> **Note:** Down bellow you can see in action how the application works.
+> **Note:** Down below you can see in action how the application works.
 ---------------------
 Video
 [![ScreenShot](https://raw.githubusercontent.com/NicoBarbaros/Viviplayer/master/Img/1.png)](https://www.youtube.com/watch?v=esbH8fboN3o&feature=youtu.be)
