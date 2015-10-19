@@ -13,9 +13,6 @@ Vivi player
 
 -------------------
 
-#####About [GrayScale][ref1].
-
-
 Program Overview
 
 ![screen1](https://raw.githubusercontent.com/NicoBarbaros/Viviplayer/master/Img/2.png)
@@ -35,6 +32,4 @@ Video
 #####Conclusion
 	
 Once again it's clear how easy WPF makes even advanced things like playing a video.
-
- [ref1]: http://whatis.techtarget.com/definition/grayscale
 
